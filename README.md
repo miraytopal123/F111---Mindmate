@@ -82,7 +82,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
   
   
 - **Sprint Review**: 
-Alınan kararlar: Login ekranı oluşturulmuştur.
+Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home page ve reminder sayfaları oluşturulmuş, genel olarak kodlanmış, firebase projesi oluşturulmuş, database bağlantısındaki eksiklikler tespit edilmiş, eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Saadet Begüm Ekmekçi
 
 - **Sprint Retrospective:**
   - Google Meet üzerinden yapılan toplantılarda ekip tanışıp kaynaşmış, ürün fikri ve yol haritası belirlenmiştir.
