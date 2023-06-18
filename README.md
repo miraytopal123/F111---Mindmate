@@ -63,15 +63,19 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 90 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarımızı haftalık şekilde Google Meet üzerinden gerçekleştirdik. Zamansal sebeplerden ötürü ise her yeni fikir veya güncelleştirmemizde Whatsapp üzerinden iletişim kurmaya karar verdik. Daily Scrum toplantısı örneği jpeg/ word/ google docs olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1Fqg8Y7ptVcQRVHXD9Ws-xS-VoL2O1KVpZ_eB2tPGrFw/edit?usp=sharing 
+- **Daily Scrum**: Daily Scrum toplantılarımızı haftalık şekilde Google Meet üzerinden gerçekleştirdik. Zamansal sebeplerden ötürü ise her yeni fikir veya güncelleştirmemizde Whatsapp üzerinden iletişim kurmaya karar verdik. Daily Scrum toplantısı örneği png/ word/ google docs olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1Fqg8Y7ptVcQRVHXD9Ws-xS-VoL2O1KVpZ_eB2tPGrFw/edit?usp=sharing 
 - https://github.com/miraytopal123/F111---Mindmate/blob/1658d68b0c69e30f56eade0084c325c5b405dc77/Project_Management/daily%20scrum%20yaz%C4%B1%C5%9Fmalar%C4%B1%20sprint%201%20.docx
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1] 
+![Backlog 1]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/sprint%20board1_.png
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]: 
+  ![Screenshot 1]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn%20durumu%20sprint%201.jpeg
+  ![Screenshot 2]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn2.png
+  ![Screenshot 3]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn3.png
+  ![Screenshot 4]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn4.png
+  ![Screenshot 5]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/sprint%20board1_.png
   
 - **Sprint Review**: 
 Alınan kararlar: Login ekranı oluşturulmuştur.
