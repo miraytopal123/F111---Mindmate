@@ -76,7 +76,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
   ![Screenshot 3]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn3.png
   ![Screenshot 4]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn4.png
   ![Screenshot 5]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/sprint%20board1_.png
-  ![alt text](Project_Management/1. Sprint/ürün durumu sprint 1.jpeg)
+  <img src="Project_Management/1. Sprint/ürün durumu sprint 1.jpeg" width="auto">
   
 - **Sprint Review**: 
 Alınan kararlar: Login ekranı oluşturulmuştur.
