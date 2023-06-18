@@ -48,7 +48,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 
 ## Juriye Not
 
----
+Şu anlık bulunmuyor.
 
 
 ---
