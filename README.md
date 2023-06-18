@@ -71,10 +71,10 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1] 
+  ![Screenshot 1]: 
   
 - **Sprint Review**: 
-Alınan kararlar: 
+Alınan kararlar: Login ekranı oluşturulmuştur.
 
 - **Sprint Retrospective:**
   - Google Meet üzerinden yapılan toplantılarda ekip tanışıp kaynaşmış, ürün fikri ve yol haritası belirlenmiştir.
