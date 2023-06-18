@@ -71,12 +71,15 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn%20durumu%20sprint%201.jpeg
-  ![Screenshot 2]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn2.png
-  ![Screenshot 3]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn3.png
-  ![Screenshot 4]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn4.png
-  ![Screenshot 5]: https://github.com/miraytopal123/F111---Mindmate/blob/84cbf4dfbb386713b903ed2be70788d82b64b6b3/Project_Management/1.%20Sprint/sprint%20board1_.png
-  <img src="Project_Management/1. Sprint/ürün durumu sprint 1.jpeg" width="auto">
+  ![Screenshot 1]: <img src="Project_Management/1. Sprint/ürün durumu sprint 1.jpeg" width="auto">
+  ![Screenshot 2]: <img src="Project_Management/1. Sprint/ürün2.png" width="auto">
+  ![Screenshot 3]: <img src="Project_Management/1. Sprint/ürün3.png" width="auto">
+  ![Screenshot 4]: <img src="Project_Management/1. Sprint/ürün4.png" width="auto">
+  ![Screenshot 5]: <img src="Project_Management/1. Sprint/ürün5.png" width="auto">
+  
+  Ürün Videosu:
+  https://github.com/miraytopal123/F111---Mindmate/blob/9e0df9687190db3baf01aae928f4c73f385c27a4/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn%20videosu.mp4
+  
   
 - **Sprint Review**: 
 Alınan kararlar: Login ekranı oluşturulmuştur.
