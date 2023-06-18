@@ -71,11 +71,11 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]: <img src="Project_Management/1. Sprint/ürün durumu sprint 1.jpeg" width="auto">
-  ![Screenshot 2]: <img src="Project_Management/1. Sprint/ürün2.png" width="auto">
-  ![Screenshot 3]: <img src="Project_Management/1. Sprint/ürün3.png" width="auto">
-  ![Screenshot 4]: <img src="Project_Management/1. Sprint/ürün4.png" width="auto">
-  ![Screenshot 5]: <img src="Project_Management/1. Sprint/ürün5.png" width="auto">
+  [Screenshot 1]: <img src="Project_Management/1. Sprint/ürün durumu sprint 1.jpeg" width="auto">
+  [Screenshot 2]: <img src="Project_Management/1. Sprint/ürün2.png" width="auto">
+  [Screenshot 3]: <img src="Project_Management/1. Sprint/ürün3.png" width="auto">
+  [Screenshot 4]: <img src="Project_Management/1. Sprint/ürün4.png" width="auto">
+  [Screenshot 5]: <img src="Project_Management/1. Sprint/ürün5.png" width="auto">
   
   Ürün Videosu:
   https://github.com/miraytopal123/F111---Mindmate/blob/9e0df9687190db3baf01aae928f4c73f385c27a4/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn%20videosu.mp4
