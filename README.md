@@ -66,7 +66,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 - **Daily Scrum**: Daily Scrum toplantılarımızı haftalık şekilde Google Meet üzerinden gerçekleştirdik. Zamansal sebeplerden ötürü ise her yeni fikir veya güncelleştirmemizde Whatsapp üzerinden iletişim kurmaya karar verdik. Daily Scrum toplantısı örneği png/ [word](https://github.com/miraytopal123/F111---Mindmate/blob/3d6bd8251398afce47da338fccbdb9cf16ace402/Project_Management/1.%20Sprint/daily%20scrum%20yaz%C4%B1%C5%9Fmalar%C4%B1%20sprint%201%20.docx) / [google docs](https://docs.google.com/document/d/1Fqg8Y7ptVcQRVHXD9Ws-xS-VoL2O1KVpZ_eB2tPGrFw/edit?usp=sharing) olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]: <img src="Project_Management/1. Sprint/sprint board 1.png" width="auto">
+  <img src="Project_Management/1. Sprint/sprint board 1.png" width="auto">
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
