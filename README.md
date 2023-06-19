@@ -67,7 +67,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 - Dosyanın Github linki: https://github.com/miraytopal123/F111---Mindmate/blob/1658d68b0c69e30f56eade0084c325c5b405dc77/Project_Management/daily%20scrum%20yaz%C4%B1%C5%9Fmalar%C4%B1%20sprint%201%20.docx
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]: <img src="Project_Management/1. Sprint/sprint board1_.png" width="auto">
+![Backlog 1]: <img src="Project_Management/1. Sprint/sprint board 1.png" width="auto">
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
