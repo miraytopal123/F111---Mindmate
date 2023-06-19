@@ -11,7 +11,7 @@ Takım Flutter 111
 ## Takım Elemanları
 - Miray Topal: Scrum Master 
 - Tarık Çakmak: Product Owner
-- Begüm Ekmekçi: Developer
+- Saadet Begüm Ekmekçi: Developer
 - İrem Tokuş: Developer
 - Utku Yunus Zırhlı: Developer
 
