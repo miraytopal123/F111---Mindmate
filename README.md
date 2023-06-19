@@ -57,7 +57,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 
 - **Sprint Notları**: 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
