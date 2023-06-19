@@ -60,7 +60,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarımızı haftalık şekilde Google Meet üzerinden gerçekleştirdik. Zamansal sebeplerden ötürü ise her yeni fikir veya güncelleştirmemizde Whatsapp üzerinden iletişim kurmaya karar verdik. Daily Scrum toplantısı örneği png/ word/ google docs olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1Fqg8Y7ptVcQRVHXD9Ws-xS-VoL2O1KVpZ_eB2tPGrFw/edit?usp=sharing 
