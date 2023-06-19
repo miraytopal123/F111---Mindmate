@@ -55,7 +55,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Uygulamanın giriş sayfası, login sayfası, sign up, home page ve reminder sayfaları oluşturulmuştur.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
