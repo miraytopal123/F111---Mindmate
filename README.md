@@ -98,3 +98,28 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 [Flutter Team 111 Miro Backlog Board](https://miro.com/app/board/uXjVM9yQl6E=/?share_link_id=830847172577)
 
 ---
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
+
+- **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının zaman kısıtlayıcı nedenler sebebiyle Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/1fdc9f542799f86976ffa6b792f04d76092ba8c4/Project_Management/2.%20Sprint/sprint%202%20daily%20scrum%20chats.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1]() 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]()
+  ![Screenshot 2]()
+  ![Screenshot 3]()
+- **Sprint Review**: 
+Alınan kararlar: ...
+Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
+
+- **Sprint Retrospective:**
+
+  - Takım üyeleri bu sprintte bazı sebeplerden ötürü ne kadar aktif olabileceklerini belirtmiş, sonucunda ise toplantı kanalı ve bu sprintteki ürün ilerlemesinin derecesi gibi bazı kararlar ortak alınıp takip edilmiştir.
+
+
+---
