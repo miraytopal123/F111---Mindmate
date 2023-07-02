@@ -101,12 +101,12 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
 - **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının zaman kısıtlayıcı nedenler sebebiyle Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/1fdc9f542799f86976ffa6b792f04d76092ba8c4/Project_Management/2.%20Sprint/sprint%202%20daily%20scrum%20chats.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
+![Backlog 1](https://github.com/miraytopal123/F111---Mindmate/blob/cb4bf833b2ac4cfe355052b41f0d3b9fdb2bce40/Project_Management/2.%20Sprint/sprint%20board%202.%20sprint.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
