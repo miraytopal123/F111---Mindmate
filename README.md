@@ -112,6 +112,9 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 - **Ürün Durumu**: Ekran görüntüleri:
     <img src="Project_Management/2. Sprint/ürün1.png" width="auto">
     <img src="Project_Management/2. Sprint/ürün2.png" width="auto">
+
+  Ürün Videosu:
+  https://github.com/miraytopal123/F111---Mindmate/blob/58194862e35277c9d1505fb6df8248cf1f2eb263/Project_Management/2.%20Sprint/%C3%BCr%C3%BCn%20videosu%20.mp4
   
 - **Sprint Review**: 
 Alınan kararlar: Firebase ile bağlantı sorunsuz şekilde tamamlandı. Firebase üzerinden authentication ve database bağlantıları yapıldı. Login ve Signup sayfalarındaki bottom overflowed by pixels durumu düzeltildi. Ek sayfalar eklendi. Sayfalar arası geçişler doğru şekilde ayarlandı. Reminder ekleme sayfası taslak olarak hazır durumda. 
