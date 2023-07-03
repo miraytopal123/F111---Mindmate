@@ -110,9 +110,9 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
-  ![Screenshot 3]()
+  ![Screenshot 1] <img src="Project_Management/2. Sprint/ürün1.png" width="auto">
+  ![Screenshot 2] <img src="Project_Management/2. Sprint/ürün2.png" width="auto">
+  
 - **Sprint Review**: 
 Alınan kararlar: ...
 Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
