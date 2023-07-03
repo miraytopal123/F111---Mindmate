@@ -110,8 +110,8 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1] <img src="Project_Management/2. Sprint/ürün1.png" width="auto">
-  ![Screenshot 2] <img src="Project_Management/2. Sprint/ürün2.png" width="auto">
+    <img src="Project_Management/2. Sprint/ürün1.png" width="auto">
+    <img src="Project_Management/2. Sprint/ürün2.png" width="auto">
   
 - **Sprint Review**: 
 Alınan kararlar: Firebase ile bağlantı sorunsuz şekilde tamamlandı. Firebase üzerinden authentication ve database bağlantıları yapıldı. Login ve Signup sayfalarındaki bottom overflowed by pixels durumu düzeltildi. Ek sayfalar eklendi. Sayfalar arası geçişler doğru şekilde ayarlandı. Reminder ekleme sayfası taslak olarak hazır durumda. 
