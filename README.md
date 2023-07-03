@@ -11,7 +11,7 @@ Takım Flutter 111
 ## Takım Elemanları
 - Miray Topal: Scrum Master 
 - Tarık Çakmak: Product Owner
-- Begüm Ekmekçi: Developer
+- Saadet Begüm Ekmekçi: Developer
 - İrem Tokuş: Developer
 - Utku Yunus Zırhlı: Developer
 
@@ -21,7 +21,7 @@ Takım Flutter 111
 
 ## Product Backlog URL
 
-[Flutter Team 111 Miro Backlog Board] https://miro.com/app/board/uXjVM9yQl6E=/?share_link_id=830847172577
+[Flutter Team 111 Miro Backlog Board](https://miro.com/app/board/uXjVM9yQl6E=/?share_link_id=830847172577)
 
 ## Ürün Açıklaması
 
@@ -55,27 +55,27 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Uygulamanın giriş sayfası, login sayfası, sign up, home page ve reminder sayfaları oluşturulmuştur.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
-
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 90 ile başlaması gerektiğine karar verildi.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
-- **Daily Scrum**: Daily Scrum toplantılarımızı haftalık şekilde Google Meet üzerinden gerçekleştirdik. Zamansal sebeplerden ötürü ise her yeni fikir veya güncelleştirmemizde Whatsapp üzerinden iletişim kurmaya karar verdik. Daily Scrum toplantısı örneği png/ word/ google docs olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1Fqg8Y7ptVcQRVHXD9Ws-xS-VoL2O1KVpZ_eB2tPGrFw/edit?usp=sharing 
-- Dosyanın Github linki: https://github.com/miraytopal123/F111---Mindmate/blob/1658d68b0c69e30f56eade0084c325c5b405dc77/Project_Management/daily%20scrum%20yaz%C4%B1%C5%9Fmalar%C4%B1%20sprint%201%20.docx
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarımızı haftalık şekilde Google Meet üzerinden gerçekleştirdik. Zamansal sebeplerden ötürü ise her yeni fikir veya güncelleştirmemizde Whatsapp üzerinden iletişim kurmaya karar verdik. Daily Scrum toplantısı örneği png/ word/ [google docs](https://docs.google.com/document/d/1Fqg8Y7ptVcQRVHXD9Ws-xS-VoL2O1KVpZ_eB2tPGrFw/edit?usp=sharing) olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/3d6bd8251398afce47da338fccbdb9cf16ace402/Project_Management/1.%20Sprint/daily%20scrum%20yaz%C4%B1%C5%9Fmalar%C4%B1%20sprint%201%20.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]: <img src="Project_Management/1. Sprint/sprint board1_.png" width="auto">
+  <img src="Project_Management/1. Sprint/sprint board 1.png" width="auto">
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  [Screenshot 1]: <img src="Project_Management/1. Sprint/ürün durumu sprint 1.jpeg" width="auto">
-  [Screenshot 2]: <img src="Project_Management/1. Sprint/ürün2.png" width="auto">
-  [Screenshot 3]: <img src="Project_Management/1. Sprint/ürün3.png" width="auto">
-  [Screenshot 4]: <img src="Project_Management/1. Sprint/ürün4.png" width="auto">
-  [Screenshot 5]: <img src="Project_Management/1. Sprint/ürün5.png" width="auto">
+  <img src="Project_Management/1. Sprint/ürün durumu sprint 1.jpeg" width="auto">
+  <img src="Project_Management/1. Sprint/ürün2.png" width="auto">
+  <img src="Project_Management/1. Sprint/ürün3.png" width="auto">
+  <img src="Project_Management/1. Sprint/ürün6.png" width="auto">
+  <img src="Project_Management/1. Sprint/ürün4.png" width="auto">
+  <img src="Project_Management/1. Sprint/ürün5.png" width="auto">
   
   Ürün Videosu:
   https://github.com/miraytopal123/F111---Mindmate/blob/9e0df9687190db3baf01aae928f4c73f385c27a4/Project_Management/1.%20Sprint/%C3%BCr%C3%BCn%20videosu.mp4
@@ -85,7 +85,7 @@ Mindmate uygulaması bireylerin olumlu alışkanlıklar geliştirmelerine ve ya�
 Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home page ve reminder sayfaları oluşturulmuş, genel olarak kodlanmış, firebase projesi oluşturulmuş, database bağlantısındaki eksiklikler tespit edilmiş, eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Saadet Begüm Ekmekçi
 
 - **Sprint Retrospective:**
-  - Google Meet üzerinden yapılan toplantılarda ekip tanışıp kaynaşmış, ürün fikri ve yol haritası belirlenmiştir.
+  - Google Meet üzerinden yapılan toplantılarda ekip tanışmış ve kaynaşmış, ürün fikri ve yol haritası belirlenmiştir.
   - Roller belirlenmiş ve gereklilikleri yerine getirilmştir.
   - Takım içindeki görev dağılımıyla ilgili düzenlemeye gidilmiştir.
  
@@ -95,6 +95,31 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board] https://miro.com/app/board/uXjVM9yQl6E=/?share_link_id=830847172577
+[Flutter Team 111 Miro Backlog Board](https://miro.com/app/board/uXjVM9yQl6E=/?share_link_id=830847172577)
+
+---
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının zaman kısıtlayıcı nedenler sebebiyle Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/1fdc9f542799f86976ffa6b792f04d76092ba8c4/Project_Management/2.%20Sprint/sprint%202%20daily%20scrum%20chats.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/miraytopal123/F111---Mindmate/blob/cb4bf833b2ac4cfe355052b41f0d3b9fdb2bce40/Project_Management/2.%20Sprint/sprint%20board%202.%20sprint.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]()
+  ![Screenshot 2]()
+  ![Screenshot 3]()
+- **Sprint Review**: 
+Alınan kararlar: ...
+Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
+
+- **Sprint Retrospective:**
+
+  - Takım üyeleri bu sprintte bazı sebeplerden ötürü ne kadar aktif olabileceklerini belirtmiş, sonucunda ise toplantı kanalı ve bu sprintteki ürün ilerlemesinin derecesi gibi bazı kararlar ortak alınıp takip edilmiştir.
+
 
 ---
