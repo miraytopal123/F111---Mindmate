@@ -101,7 +101,11 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 
 # Sprint 2
 
+- **Sprint Notları**: Uygulamada firebase ile bağlantı sağlanmış ve authentication ile database bağlantıları yapılmıştır. Uygulamaya ek sayfalar eklenmiştir.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
 - **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının zaman kısıtlayıcı nedenler sebebiyle Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/1fdc9f542799f86976ffa6b792f04d76092ba8c4/Project_Management/2.%20Sprint/sprint%202%20daily%20scrum%20chats.docx)
 
