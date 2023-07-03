@@ -1,76 +1,75 @@
-import 'package:flutter/material.dart';
-import 'package:reminder_app/pages/reminder.dart';
 import 'package:reminder_app/pages/add.dart';
+import 'package:reminder_app/services/auth.dart';
+import 'package:flutter/material.dart';
 
-class HomePage extends StatelessWidget {
-  final List<Reminder> reminders = [
-    Reminder(
-      title: 'Su İçme Hatırlatıcısı',
-      description: 'Günde en az 8 bardak su için.',
-      icon: Icons.opacity,
-    ),
-    Reminder(
-      title: 'İlaç Hatırlatıcısı',
-      description: 'Doktorunun verdiği ilacı düzenli olarak kullan.',
-      icon: Icons.medication,
-    ),
-  ];
+class HomePage extends StatefulWidget {
+  @override
+  _HomePageState createState() => _HomePageState();
+}
+
+class _HomePageState extends State<HomePage> {
+  AuthService _authService = AuthService();
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        title: Text('Mindmate'),
         backgroundColor: Colors.brown,
-        title: Row(
-          children: [
-          SizedBox(width: 8),
-            Text(
-                'Mindmate',
-                style: TextStyle(
-                color: Colors.white,
-                fontSize: 22,
-              ),
-            )
-
-          ]
-        ),
-      ),
-      body: ListView.builder(
-        itemCount: reminders.length,
-        itemBuilder: (context, index) {
-          return ListTile(
-            leading: Icon(reminders[index].icon),
-            title: Text(reminders[index].title),
-            subtitle: Text(reminders[index].description),
-          );
-        },
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           Navigator.push(
             context,
-            MaterialPageRoute(
-              builder: (context) => AddReminderPage(),
-            ),
+            MaterialPageRoute(builder: (context) => AddReminderPage()),
           );
         },
         child: Icon(Icons.add),
-        backgroundColor: Colors.brown,
+        backgroundColor: Colors.brown, // Kahverengi renk
       ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
-    );
-  }
-}
 
+      drawer: Drawer(
+        child: ListView(
+          padding: EdgeInsets.zero,
+          children: <Widget>[
 
+            UserAccountsDrawerHeader(
+              decoration: BoxDecoration(
+                color: Colors.black12,
+              ),
 
-class AddReminderPage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-
-      body: Center(
-        child: Text('Reminder ekle'),
+              accountName: Text("Begüm Ekmekçi"),
+              accountEmail: Text("bbegum.ekmekci@gmail.com"),
+              currentAccountPicture: CircleAvatar(
+                backgroundImage: AssetImage("lib/images/woman.png"),
+                backgroundColor: Colors.brown,
+              ),
+            ),
+            ListTile(
+              title: Text('Anasayfa'),
+              leading: Icon(Icons.home),
+              onTap: () {
+                Navigator.pop(context);
+              },
+            ),
+            ListTile(
+              title: Text('Profilim'),
+              onTap: () {
+                Navigator.pop(context);
+              },
+              leading: Icon(Icons.person),
+            ),
+            Divider(),
+            ListTile(
+              title: Text('Çıkış yap'),
+              onTap: () {
+                _authService.signOut();
+                Navigator.pop(context);
+              },
+              leading: Icon(Icons.remove_circle),
+            ),
+          ],
+        ),
       ),
     );
   }
