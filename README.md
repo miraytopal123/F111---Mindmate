@@ -114,7 +114,7 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
   ![Screenshot 2] <img src="Project_Management/2. Sprint/ürün2.png" width="auto">
   
 - **Sprint Review**: 
-Alınan kararlar: ...
+Alınan kararlar: Firebase ile bağlantı sorunsuz şekilde tamamlandı. Firebase üzerinden authentication ve database bağlantıları yapıldı. Login ve Signup sayfalarındaki bottom overflowed by pixels durumu düzeltildi. Ek sayfalar eklendi. Sayfalar arası geçişler doğru şekilde ayarlandı. Reminder ekleme sayfası taslak olarak hazır durumda. 
 Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
 
 - **Sprint Retrospective:**
