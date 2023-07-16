@@ -137,7 +137,7 @@ Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprintte kalan son 120 puanın tamamlanması kararlaştırılmış ve tamamlanmıştır.
 
 - **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının pratiklik açısından Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/ad85c4afc09031edfcf3994aa8be763bdf58d0ff/Project_Management/3.%20Sprint/3.%20sprint%20daily%20scrum%20chats.docx)
 
