@@ -103,9 +103,9 @@ Alınan kararlar: Uygulamanın giriş sayfası, login sayfası, sign up, home pa
 
 - **Sprint Notları**: Uygulamada firebase ile bağlantı sağlanmış ve authentication ile database bağlantıları yapılmıştır. Uygulamaya ek sayfalar eklenmiştir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 110 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
 
 - **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının zaman kısıtlayıcı nedenler sebebiyle Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/1fdc9f542799f86976ffa6b792f04d76092ba8c4/Project_Management/2.%20Sprint/sprint%202%20daily%20scrum%20chats.docx)
 
@@ -127,6 +127,38 @@ Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
 - **Sprint Retrospective:**
 
   - Takım üyeleri bu sprintte bazı sebeplerden ötürü ne kadar aktif olabileceklerini belirtmiş, sonucunda ise toplantı kanalı ve bu sprintteki ürün ilerlemesinin derecesi gibi bazı kararlar ortak alınıp takip edilmiştir.
+
+
+---
+
+# Sprint 3
+
+- **Sprint Notları**: EKLENECEK
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+
+- **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının zaman kısıtlayıcı nedenler sebebiyle Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/1fdc9f542799f86976ffa6b792f04d76092ba8c4/Project_Management/2.%20Sprint/sprint%202%20daily%20scrum%20chats.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/miraytopal123/F111---Mindmate/blob/c380303dcc66246e6242c2b1ce102628b544910e/Project_Management/3.%20Sprint/sprint%20board_3.%20sprint.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+    <img src="" width="auto">
+    <img src="" width="auto">
+
+  Ürün Videosu:
+  EKLENECEK
+  
+- **Sprint Review**: 
+EKLENECEK
+Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal, İrem Tokuş
+
+- **Sprint Retrospective:**
+
+  - Takım üyeleri son sprintte 
 
 
 ---
