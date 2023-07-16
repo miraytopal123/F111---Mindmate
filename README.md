@@ -133,13 +133,13 @@ Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
 
 # Sprint 3
 
-- **Sprint Notları**: EKLENECEK
+- **Sprint Notları**: Firebase storagedaki görsellerle birlikte hatırlatmalar eklenmiştir. Homepage düzenlenmiş ve alarm sistemine benzer on/off özellikleri eklenmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
-- **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının zaman kısıtlayıcı nedenler sebebiyle Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/1fdc9f542799f86976ffa6b792f04d76092ba8c4/Project_Management/2.%20Sprint/sprint%202%20daily%20scrum%20chats.docx)
+- **Daily Scrum**: Takımımız bu Sprint'de Daily Scrum toplantılarının pratiklik açısından Whatsapp üzerinden yapılmasını kararlaştırmış ve bu karara göre hareket edilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats - Word](https://github.com/miraytopal123/F111---Mindmate/blob/ad85c4afc09031edfcf3994aa8be763bdf58d0ff/Project_Management/3.%20Sprint/3.%20sprint%20daily%20scrum%20chats.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/miraytopal123/F111---Mindmate/blob/c380303dcc66246e6242c2b1ce102628b544910e/Project_Management/3.%20Sprint/sprint%20board_3.%20sprint.png) 
@@ -153,12 +153,12 @@ Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
   EKLENECEK
   
 - **Sprint Review**: 
-EKLENECEK
+Alınan Kararlar: Firebase storagedaki görsellerle birlikte hatırlatmalar sorunsuzca eklenmiştir. Homepage uygulamamızın ihtiyaç ve gereklerine göre düzenlenmiştir. Uygulamamıza, alarm sistemine benzer on/off özellikleri eklenmiştir.
 Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal, İrem Tokuş
 
 - **Sprint Retrospective:**
 
-  - Takım üyeleri son sprintte 
-
+  - Son sprintte ürün tamamlanmış ve eksik kalan kısımları giderilmiştir.
+  - Takım üyeleri takım içi iş birliğinin önemini vurgulamış ve çoğunlukla bu doğrultuda hareket edilmiştir.
 
 ---
