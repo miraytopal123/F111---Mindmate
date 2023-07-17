@@ -146,11 +146,11 @@ Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-    <img src="" width="auto">
+    <img src="Project_Management/3.%20Sprint/storage.png" width="auto">
     <img src="" width="auto">
 
-  Ürün Videosu:
-  EKLENECEK
+- **Ürün Videosu**:
+  (https://github.com/miraytopal123/F111---Mindmate/blob/main/Project_Management/3.%20Sprint/%C3%BCr%C3%BCn%20videosu%20sprint%203.mp4)
   
 - **Flutter APK**: 
 Built build\app\outputs\flutter-apk\app-release.apk (21.6MB).
