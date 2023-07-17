@@ -1,16 +1,27 @@
 import 'dart:io';
-
+import 'package:firebase_storage/firebase_storage.dart';
 import 'package:reminder_app/services/reminder_action.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:image_picker/image_picker.dart';
+import 'homepage.dart';
 
-  class AddReminderPage extends StatefulWidget {
+class AddReminderPage extends StatefulWidget {
   @override
   _AddStatusPageState createState() => _AddStatusPageState();
+
 }
 
 class _AddStatusPageState extends State<AddReminderPage> {
+  double _startHour = 0.0;
+  double _endHour = 12.0;
+  double _startMinute = 0.0;
+  double _endMinute = 59.0;
+  @override
+  void initState(){
+    super.initState();
+    FirebaseStorage.instance.ref('/imagesfolder').listAll();
+  }
   TextEditingController statusController = TextEditingController();
   ReminderActions _statusService = ReminderActions();
 
@@ -22,17 +33,17 @@ class _AddStatusPageState extends State<AddReminderPage> {
     double height = MediaQuery.of(context).size.height;
     if (profileImage != null) {
       return CircleAvatar(
-          backgroundImage: FileImage(File(profileImage!.path)),
+          backgroundImage: FileImage(File(profileImage.path)),
           radius: height * 0.08);
     } else {
       if (_pickImage != null) {
         return CircleAvatar(
-          backgroundImage: NetworkImage(_pickImage),
+          backgroundImage: NetworkImage('_pickImage'),
           radius: height * 0.08,
         );
       } else
         return CircleAvatar(
-          backgroundImage: AssetImage("assets/images/siyah.png"),
+          backgroundImage: NetworkImage('https://www.pngkey.com/png/detail/207-2079267_circle-icons-polaroidcamera-camera-icon-png-circle.png'),
           radius: height * 0.08,
         );
     }
@@ -44,6 +55,7 @@ class _AddStatusPageState extends State<AddReminderPage> {
     return Scaffold(
         appBar: AppBar(
           title: Text("Hatırlatıcı Ekle"),
+          backgroundColor: Colors.brown,
         ),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -51,10 +63,10 @@ class _AddStatusPageState extends State<AddReminderPage> {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Container(
-                height: size.height * .4,
+                height: size.height * .6,
                 decoration: BoxDecoration(
                     color: Colors.white,
-                    border: Border.all(color: Colors.blue, width: 2),
+                    border: Border.all(color: Colors.brown, width: 2),
                     borderRadius: BorderRadius.all(Radius.circular(10))),
                 child: Padding(
                   padding: const EdgeInsets.all(8.0),
@@ -92,7 +104,7 @@ class _AddStatusPageState extends State<AddReminderPage> {
                               child: Icon(
                                 Icons.camera_alt,
                                 size: 30,
-                                color: Colors.blue,
+                                color: Colors.brown,
                               )),
                           SizedBox(
                             width: 10,
@@ -104,10 +116,47 @@ class _AddStatusPageState extends State<AddReminderPage> {
                               child: Icon(
                                 Icons.image,
                                 size: 30,
-                                color: Colors.blue,
+                                color: Colors.brown,
                               ))
                         ],
-                      )
+                      ),
+
+                      RangeSlider(
+                        values: RangeValues(_startHour, _endHour),
+                        min: 0.0,
+                        max: 12.0,
+                        divisions: 12,
+                        onChanged: (RangeValues values) {
+                          setState(() {
+                            _startHour = values.start;
+                            _endHour = values.end;
+                          });
+                        },
+                        labels: RangeLabels(
+                          "${_startHour.toStringAsFixed(0)} Saat",
+                          "${_endHour.toStringAsFixed(0)} Saat",
+                        ),
+                        activeColor: Colors.teal,
+                      ),
+
+                      RangeSlider(
+
+                        values: RangeValues(_startMinute, _endMinute),
+                        min: 0.0,
+                        max: 59.0,
+                        divisions: 59,
+                        onChanged: (RangeValues values) {
+                          setState(() {
+                          "${_startMinute = values.start} Dakika";
+                          "${_endMinute = values.end} Dakika";
+                          });
+                        },
+                        labels: RangeLabels(
+                          _startMinute.toStringAsFixed(0),
+                          _endMinute.toStringAsFixed(0),
+                        ),
+                        activeColor: Colors.teal,
+                      ),
                     ],
                   ),
                 ),
@@ -115,42 +164,45 @@ class _AddStatusPageState extends State<AddReminderPage> {
             ),
             Padding(
               padding: const EdgeInsets.only(left: 8.0, right: 8, bottom: 25),
-              child: InkWell(
-                onTap: () {
+              child: ElevatedButton(
+                onPressed: () {
                   _statusService
                       .addStatus(statusController.text, profileImage ?? '')
                       .then((value) {
                     Fluttertoast.showToast(
-                        msg: "Durum eklendi!",
-                        timeInSecForIosWeb: 2,
-                        toastLength: Toast.LENGTH_SHORT,
-                        gravity: ToastGravity.BOTTOM,
-                        backgroundColor: Colors.grey[600],
-                        textColor: Colors.white,
-                        fontSize: 14);
-                    Navigator.pop(context);
+                      msg: "Durum eklendi!",
+                      timeInSecForIosWeb: 2,
+                      toastLength: Toast.LENGTH_SHORT,
+                      gravity: ToastGravity.BOTTOM,
+                      backgroundColor: Colors.grey[600],
+                      textColor: Colors.white,
+                      fontSize: 14,
+                    );
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => HomePage()),
+                    );
                   });
                 },
-                child: Container(
-                  padding: EdgeInsets.symmetric(vertical: 5),
-                  decoration: BoxDecoration(
-                      border: Border.all(color: Colors.blue, width: 2),
-                      //color: colorPrimaryShade,
-                      borderRadius: BorderRadius.all(Radius.circular(30))),
-                  child: Padding(
-                    padding: const EdgeInsets.all(5.0),
-                    child: Center(
-                        child: Text(
-                          "Ekle",
-                          style: TextStyle(
-                            color: Colors.blue,
-                            fontSize: 20,
-                          ),
-                        )),
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.brown,
+                  padding: EdgeInsets.symmetric(vertical: 10, horizontal: 50),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(30),
                   ),
                 ),
+                child: Text(
+                  "Ekle",
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 20,
+                  ),
+
+                ),
+
               ),
             ),
+
           ],
         ));
   }
@@ -161,10 +213,9 @@ class _AddStatusPageState extends State<AddReminderPage> {
       final pickedFile = await _pickerImage.pickImage(source: source);
       setState(() {
         profileImage = pickedFile!;
-        print("dosyaya geldim: $profileImage");
+        print("dosya: $profileImage");
         if (profileImage != null) {}
       });
-      print('aaa');
     } catch (e) {
       setState(() {
         _pickImage = e;

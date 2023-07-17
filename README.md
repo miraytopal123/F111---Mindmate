@@ -152,6 +152,9 @@ Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
   Ürün Videosu:
   EKLENECEK
   
+- **Flutter APK**: 
+Built build\app\outputs\flutter-apk\app-release.apk (21.6MB).
+
 - **Sprint Review**: 
 Alınan Kararlar: Firebase storagedaki görsellerle birlikte hatırlatmalar sorunsuzca eklenmiştir. Homepage uygulamamızın ihtiyaç ve gereklerine göre düzenlenmiştir. Uygulamamıza, alarm sistemine benzer on/off özellikleri eklenmiştir.
 Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal, İrem Tokuş

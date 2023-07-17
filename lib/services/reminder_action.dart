@@ -7,10 +7,10 @@ import 'package:reminder_app/services/storage.dart';
 class ReminderActions {
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
   Storage _storageService = Storage();
-  String mediaUrl = '';
+  String mediaUrl = "";
 
 
-  Future<Reminder> addStatus(String reminder, XFile pickedFile) async {//reminder ekleme
+  Future<Reminder> addStatus(String reminder, PickedFile pickedFile) async {//reminder ekleme
     var ref = _firestore.collection("Reminder");
 
     mediaUrl = await _storageService.uploadMedia(File(pickedFile.path));
