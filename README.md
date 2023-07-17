@@ -147,7 +147,9 @@ Sprint Review katılımcıları: Saadet Begüm Ekmekçi, Miray Topal
 
 - **Ürün Durumu**: Ekran görüntüleri:
     <img src="Project_Management/3.%20Sprint/storage.png" width="auto">
-    <img src="" width="auto">
+    <img src="Project_Management/3.%20Sprint/homepage.png" width="auto">
+    <img src="Project_Management/3.%20Sprint/add.png" width="auto">
+    <img src="Project_Management/3.%20Sprint/exit.png" width="auto">
 
 - **Ürün Videosu**:
   (https://github.com/miraytopal123/F111---Mindmate/blob/main/Project_Management/3.%20Sprint/%C3%BCr%C3%BCn%20videosu%20sprint%203.mp4)
